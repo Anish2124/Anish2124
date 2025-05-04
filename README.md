@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi 👋 I'm Anish Wavikar
 
+ 
+ Pursuing B.E. in Artificial Intelligence & Data Science  
+📍 Based in Pune, India  
+💻 Passionate about AI, ML, and solving real-world problems with data
 <!--
 **Anish2124/Anish2124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
