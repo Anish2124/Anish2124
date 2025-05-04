@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anish-wavikar-3051a32bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish wavikar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/.anish_wavikar.?igsh=ZDE2NGJjdXJreTl5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="._anish_wavikar._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anish wavikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anish wavikar" height="30" width="40" /></a>
+<a href="www.youtube.com/@anishwavikar1569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anish wavikar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
