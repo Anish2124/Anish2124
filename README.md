@@ -18,11 +18,7 @@
 <a href="https://www.linkedin.com/in/anish-wavikar-3051a32bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish wavikar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/.anish_wavikar.?igsh=ZDE2NGJjdXJreTl5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="._anish_wavikar._" height="30" width="40" /></a>
 <a href="www.youtube.com/@anishwavikar1569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anish wavikar" height="30" width="40" /></a>
-  <a href="https://discord.com/._anish._" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://google.com/anishwavikar1821@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ 
   </a>
 </p>
 
